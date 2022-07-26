@@ -18,3 +18,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+Currently working as SWE at resvu.
+
+Im dedicated to creating reliable and trusted software that provides real value to the end user. 
+
+Passionate about making a difference.
+
+- 🍯 Typescript, Angular, React, Python
+- 🌱 I’m currently learning Go and Rust in/for production. 
+- 🔭 I’m currently working on two side projects!
+- 💬 Reach out to me!
