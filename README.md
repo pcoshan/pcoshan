@@ -28,4 +28,3 @@ Passionate about making a difference.
 - 🍯 Typescript, Angular, React, Python
 - 🌱 I’m currently learning Go and Rust in/for production. 
 - 🔭 I’m currently working on two side projects!
-- 💬 Reach out to me!
